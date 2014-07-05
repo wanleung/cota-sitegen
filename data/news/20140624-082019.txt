@@ -1,0 +1,8 @@
+Date: 2014-06-24 08:20:19
+Author: sammyfung (Open Source Hong Kong)
+Title:  OpenSource.HK Monthly Talks (2014.08)
+Content:
+News Feed - Source :  
+[Open Source Hong Kong -  OpenSource.HK Monthly Talks (2014.08)](http://opensource.hk/monthly-talks-2014-08)
+
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div class="content clearfix"><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="fsl">Date: 2014.08.02 Saturday<br />Time: 14:00 - 17:30<br />Venue: To Be Determined 有待確定<br />RSVP: <a href="https://www.facebook.com/events/484036891698240">Facebook</a> or <a href="http://bit.ly/oshkeventreg">Google Form</a>.<br />Venue Sponsor: </span><span class="fsl"><a href="http://www.cs.cityu.edu.hk">Department of Computing Science, City University of Hong Kong</a>.</span></p><p>內容: <br /><span class="fsl">1. 台灣最大型開源年會 <a href="http://coscup.org/2014">COSCUP 2014</a> 會後分享 (由眾 COSCUP香港出席者分享)<br /> 2. 還有更多內容<br /><br /> 語言: 廣東話 Cantonese</span></p><p><span class="fsl"><span class="text_exposed_show"><br /> Co-Organizers: Open Source Hong Kong, Hong Kong Linux User Group.</span></span></p></div></div></div></div></div></div></div>

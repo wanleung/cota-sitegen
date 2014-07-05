@@ -1,0 +1,10 @@
+Date: 2012-07-17
+Author: Hong Kong Linux User Group
+Title: Contact
+Content:
+You may now find us on Facebook.
+<br />
+<ul>
+  <li>Facebook:&nbsp&nbsp<a href="https://www.facebook.com/hkcota/" target="_blank">https://www.facebook.com/hkcota/</a></li>
+</ul>
+
