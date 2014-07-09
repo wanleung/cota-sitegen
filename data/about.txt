@@ -4,7 +4,7 @@ Title: About
 Content:
 <h2>What is HKCOTA</h2>
 
-Hong Kong Creative Open Techonlogy Association (HKCOTA) is a non-
+Hong Kong Creative Open Technology Association (HKCOTA) is a non-
 profit (pending) organisation founded in 2014 to promote
 Open Standards; Free and Open Source Software; Open
 Hardware; Free Culture Works, Open Content and Creative
