@@ -1,11 +1,19 @@
-Date: 2014-04-01
-Author: Hong Kong Linux User Group
+Date: 2014-01-01
+Author: Hong Kong Creative Open Technology Association (HKCOTA)
 Title: About 
 Content:
-<h2>What is HKCOTA</h2>
+What is HKCOTA
+--------------
 
 Hong Kong Creative Open Technology Association (HKCOTA) is a non-
 profit (pending) organisation founded in 2014 to promote
 Open Standards; Free and Open Source Software; Open
 Hardware; Free Culture Works, Open Content and Creative
 Commons.
+
+Current Executive Committee Members:
+------------------------------------
+
+  * Haggen So - President
+  * Wan Leung Wong - Vice-President
+  * Sammy Fung - Vice-President
